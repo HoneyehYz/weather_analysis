@@ -1,5 +1,7 @@
 # Weather Data Analyzer Dashboard
 
+<img width="1781" height="953" alt="Screenshot 2026-06-18 at 4 18 08 PM" src="https://github.com/user-attachments/assets/aecad814-aa30-4e77-ba24-7b6d7c1eee49" />
+
 An interactive weather dashboard that fetches real-time 7-day forecasts, visualizes the data with charts, and uses an LLM to explain the weather pattern in plain English.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red) ![License](https://img.shields.io/badge/license-MIT-green)
