@@ -8,7 +8,7 @@ An interactive weather dashboard that fetches real-time 7-day forecasts, visuali
 
 ## Features
 
-- **Live forecast data** — pulls 7 days of hourly weather from [Open-Meteo](https://open-meteo.com/) (free, no API key required)
+- **Live forecast data** — pulls 7 days of hourly weather from [Open-Meteo](https://open-meteo.com/)
 - **Interactive charts** — temperature, feels-like, humidity, and wind speed visualized with Plotly
 - **Daily summary table** — min/max/avg temperature, precipitation totals, dominant condition per day
 - **LLM analysis** — sends the forecast summary to OpenAI and returns a plain-English explanation of the week's weather pattern
@@ -86,8 +86,4 @@ Open `http://localhost:8501` in your browser.
 | `OPENAI_API_KEY` | For LLM only | — | Your OpenAI API key |
 | `OPENAI_MODEL` | No | `gpt-4o-mini` | Any OpenAI chat model ID |
 
----
 
-## License
-
-MIT
